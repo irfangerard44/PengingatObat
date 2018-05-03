@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Pengingat Obat</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_today">Hari Ini</string>
+    <string name="title_activity_history">Riwayat</string>
+    <string name="title_activity_tomorrow">Esok Hari</string>
+    <string name="title_activity_add">Tambah Obat</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="title_activity_alert">List Obat</string>
+    <string name="str_btn_set_alarm">Simpan Obat</string>
+    <string name="str_btn_cancel">Batal</string>
+    <string name="str_tv_message"> </string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="pill_name">Anda Belum Memasukan Obat</string>
+
+    <string name="Monday">Sen</string>
+    <string name="Tuesday">Sel</string>
+    <string name="Wednesday">Rab</string>
+    <string name="Thursday">Kam</string>
+    <string name="Friday">Jum</string>
+    <string name="Saturday">Sab</string>
+    <string name="Sunday">Ming</string>
+    <string name="title_activity_edit">Rubah</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="action_edit">Rubah</string>
+
+</resources>
